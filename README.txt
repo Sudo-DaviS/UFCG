@@ -1,2 +1,2 @@
-codigos em pythob de criptografia e descriptografia
+codigos em python de criptografia e descriptografia
 ultilizando algoritmo blowfish. 
